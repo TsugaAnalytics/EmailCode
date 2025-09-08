@@ -1,6 +1,6 @@
 clients = [
     {
-        "url": "https://raw.githubusercontent.com/username/repo/main/clients/Client1.py",
+        "url": "https://raw.githubusercontent.com/TsugaAnalytics/email-testing2/refs/heads/main/clients/Client1.py",
         "email": "wlsnburton@icloud.com"
     }
     # add more clients here
