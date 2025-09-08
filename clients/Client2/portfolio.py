@@ -1,4 +1,4 @@
-recipient_email = "client2@example.com"
+recipient_email = "wlsnburton@icloud.com"
 
 def get_portfolio():
     return {
