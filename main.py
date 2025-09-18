@@ -21,7 +21,7 @@ def hello_http(request):
     html += "</table>"
 
     sender = os.environ.get("SENDER_EMAIL")
-    password = os.environ.get("EMAIL_PASSWORD")
+    password = os.environ.get("jndrmvfbnpfuazav")
     recipient = os.environ.get("RECIPIENT_EMAIL")
 
     msg = MIMEMultipart()
